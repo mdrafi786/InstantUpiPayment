@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UPI Manager</string>
+    <string name="pay_with_google_pay">Pay with Google pay</string>
+    <string name="upis">Upis</string>
+    <string name="bhim_upi">BHIM Upi</string>
+    <string name="phone_pay_upi">Phone Pay Upi</string>
+    <string name="paytm_upi">Paytm Upi</string>
+</resources>
