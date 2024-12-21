@@ -132,6 +132,3 @@ InstantPayUpi is a  Android Library to implement UPI Payment integration easily 
     | `TransactionStatus.SUBMITTED`  | 🟡 Transaction is in **PENDING** state. Money might get deducted from user’s account but not yet deposited in payee’s account.|
     | `TransactionStatus.SUCCESS`  | 🟢 Transaction is successful. |
     | `TransactionStatus.FAILED` | 🔴 Transaction is failed. |
-
-## License
-* [BigOhNotation](https://www.bigohtech.com/)
